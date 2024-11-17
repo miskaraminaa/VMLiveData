@@ -46,11 +46,15 @@ Ce projet compare deux implémentations Android pour une application qui utilise
 ---
 
 
-https://github.com/user-attachments/assets/1d43fcb3-b93a-434e-93cf-dad540327c8c
 
 
 
-https://github.com/user-attachments/assets/05d6e48b-23b9-4de5-b85a-4126b29c3064
+
+https://github.com/user-attachments/assets/cf42138d-c850-4732-96ef-338ea4478beb
+
+
+https://github.com/user-attachments/assets/ccf9b15b-caa2-4766-96a6-796368e96260
+
 
 
 
